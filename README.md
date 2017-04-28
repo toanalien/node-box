@@ -1,5 +1,7 @@
 # Box API Node.JS Client
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/toanalien/node-box.svg)](https://greenkeeper.io/)
+
 ## Install
 
     npm install nodejs-box
